@@ -83,7 +83,7 @@ author:
   name             : "Joachim Bona-Pellissier"
   avatar           : "profile.png"
   bio              : "Ph.D student at Institut de Mathématiques de Toulouse"
-  location         : "Toulouse"
+  location         : "Toulouse, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=p0OVVugAAAAJ&hl=fr&oi=ao"
@@ -236,14 +236,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
