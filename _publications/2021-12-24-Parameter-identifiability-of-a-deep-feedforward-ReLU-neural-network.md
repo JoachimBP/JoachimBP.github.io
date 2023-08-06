@@ -2,8 +2,8 @@
 title: "Parameter identifiability of a deep feedforward ReLU neural network"
 collection: publications
 permalink: /publication/2021-12-24-Parameter-identifiability-of-a-deep-feedforward-ReLU-neural-network
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-12-24
+excerpt: 
+date: 2023-08-03
 venue: 'Machine Learning'
 paperurl: 'https://doi.org/10.1007/s10994-023-06355-4'
 citation: 'Bona-Pellissier, J., Bachoc, F. & Malgouyres, F. Parameter identifiability of a deep feedforward ReLU neural network. Mach Learn (2023).'
