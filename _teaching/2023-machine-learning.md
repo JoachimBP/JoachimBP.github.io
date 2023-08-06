@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning tutorial \& practical"
+title: "Machine Learning tutorial & practical"
 collection: teaching
 type: "Undergraduate (mathematics)"
 permalink: /teaching/2020-convex-optimization
