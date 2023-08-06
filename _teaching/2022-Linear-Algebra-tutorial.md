@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-convex-optimization
 venue: "Université Toulouse 3 Paul Sabatier"
-date: 2022
+date: 2023-01-01
 location: "Toulouse, France"
 ---
 

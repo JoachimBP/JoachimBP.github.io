@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-convex-optimization
 venue: "Université Toulouse 1 Capitole"
-date: 2020
+date: 2020-09-01
 location: "Toulouse, France"
 ---
 
