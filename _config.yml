@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D student at Institut de Mathématiques de Toulouse"
   location         : "Toulouse"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=p0OVVugAAAAJ&hl=fr&oi=ao"
   email            :
   researchgate     :  # example: ""
@@ -109,7 +109,7 @@ author:
   stackoverflow    : #
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
