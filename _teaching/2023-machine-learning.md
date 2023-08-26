@@ -3,7 +3,7 @@ title: "Machine Learning tutorial & practical"
 collection: teaching
 type: "Undergraduate (mathematics)"
 permalink: /teaching/2020-convex-optimization
-venue: "Paul Sabatier University, Toulouse."
+venue: "Paul Sabatier University, Toulouse"
 date: 2023-01-01
 location: "Toulouse, France"
 ---
