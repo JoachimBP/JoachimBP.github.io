@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joachim Bona-Pellissier"
 title_separator          : "-"
 name                     : &name "Joachim Bona-Pellissier"
-description              : &description "Ph.D student at Institut de Mathématiques de Toulouse"
+description              : &description "Postdoc at MaLGa"
 url                      : https://JoachimBP.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Joachim Bona-Pellissier"
   avatar           : "profile.png"
-  bio              : "Ph.D student at Institut de Mathématiques de Toulouse"
-  location         : "Toulouse, France"
+  bio              : "Postdoc at MaLGa"
+  location         : "Genoa, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=p0OVVugAAAAJ&hl=fr&oi=ao"
