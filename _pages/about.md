@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Joachim Bona-Pellissier's personal webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
