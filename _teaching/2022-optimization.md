@@ -1,7 +1,7 @@
 ---
 title: "Optimization practical"
 collection: teaching
-type: "Undergraduate (mathematics)"
+type: "Graduate (mathematics)"
 permalink: /teaching/2020-convex-optimization
 venue: "Paul Sabatier University, Toulouse."
 date: 2022-09-01
