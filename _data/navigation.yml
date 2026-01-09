@@ -6,8 +6,5 @@ main:
   - title: "CV"
     url: /files/CV_Joachim_Bona-Pellissier.pdf
 
-  - title: "Talks"
-    url: /talks/
-
   - title: "Teaching"
     url: /teaching/    
