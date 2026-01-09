@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joachim Bona-Pellissier"
 title_separator          : "-"
 name                     : &name "Joachim Bona-Pellissier"
-description              : &description "Postdoc at [MaLGa](https://malga.unige.it/)"
+description              : &description "Postdoc at MaLGa"
 url                      : https://JoachimBP.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joachim Bona-Pellissier"
   avatar           : "profile.png"
-  bio              : "Postdoc at MaLGa"
+  bio              : "Postdoc at [MaLGa](https://malga.unige.it/)"
   location         : "Genoa, Italy"
   employer         :
   pubmed           : 
