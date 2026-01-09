@@ -13,7 +13,7 @@ I am a postdoctoral researcher in the [Machine Learning Genoa Center (MaLGa)](ht
 Until december 2023, I was a Ph.D student at the [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/fr/), France. I completed my Ph.D under the supervision of [François Malgouyres](https://www.math.univ-toulouse.fr/~fmalgouy/) and [François Bachoc](https://francoisbachoc.github.io/).
 
 ### Research interests
-- Physics-Informed Machine Learning
-- Deep Learning Theory
+- Physics-informed machine learning
+- Deep learning theory
 - Statistical learning theory
 - Kernel methods
