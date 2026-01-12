@@ -15,5 +15,5 @@ Until december 2023, I was a Ph.D student at the [Institut de Mathématiques de 
 ### Research interests
 - Physics-informed machine learning
 - Deep learning theory
-- Statistical learning theory
+- Geometry of ReLU networks
 - Kernel methods
