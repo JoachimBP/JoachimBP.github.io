@@ -272,6 +272,10 @@ h3 {
   font-weight: 700;
 }
 
+.timeline-list a {
+  text-decoration: none;
+}
+
 .timeline-list div {
   color: #595650;
 }
